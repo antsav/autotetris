@@ -1,8 +1,10 @@
 autotetris
 ==========
 
-<h4>Language:</h4> Ruby
-<hr>
+<h4>Language:</h4> 
+<ul>
+  <li>Ruby</li>
+</ul>
 
 <h4>Inputs:</h4> 
 <ul>
